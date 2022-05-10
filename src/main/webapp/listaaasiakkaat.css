@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+
+body {
+  background-color: lightblue;
+}
+thead {
+	color: green;
+}
+#uusiAsiakas, #takaisin {
+		
+	cursor: pointer;	
+}
+.poista {
+	color: red;
+	text-decoration: underline;
+	cursor: pointer;	
+}
